@@ -1,4 +1,6 @@
-# programs
+# JAVA Programs
+## These are some basic java programs.
+
 1.  Java program to accept a number and display whether it is an EVEN or ODD.
 2.  Java program to swap the two numbers and display them again.
 3.  Java program to find the largest and second largest of 3 numbers.
